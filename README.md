@@ -1,5 +1,5 @@
-### Hi there 👋
-
+#  私はちょうど何が重要か見つけようとしている。自分たちの生活のトラックを失う方法です。
+### &emsp;Computers are confusing !
 <!--
 **ValynseeleAlexis/ValynseeleAlexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
